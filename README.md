@@ -11,7 +11,7 @@ Then i found the lib [pdfMake](http://pdfmake.org/#/), and made a script with No
 and another script in the file checkTimeToSend.js to check the time of the day that i'm suposted to send the pdf by email.
 
 I left an example already, its not consuming data from any database, i left only a db.json file using [json-server](https://www.npmjs.com/package/json-server),
-for you to test if pleases you, but its really to replace with your data from the database.
+for you to test if pleases you, but its really easy to replace with your data from the database.
 
 ## Usage
 

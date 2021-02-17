@@ -1,5 +1,5 @@
 # pdf-generator
-Gerar um pdf com dados vindo diretamente do banco de dados, com a lib pdfMake.
+Generates a pdf directly from the server with data from the database, with the lib pdfMake.
 
 ## Introduction
 

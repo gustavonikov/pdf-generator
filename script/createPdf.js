@@ -23,7 +23,7 @@ module.exports = () => {
         {text: 'APT', style: 'header',},
     ];
     
-    // tem q ser os nomes das props q tá vindo do json
+    // it has to be the names that r coming from the your database
     const propsFromDB = [
         'ID',
         'DATA',

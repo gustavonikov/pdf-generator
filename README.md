@@ -10,8 +10,8 @@ So after searching on the internet, i found some ways to do it, utilizing puppet
 Then i found the lib [pdfMake](http://pdfmake.org/#/), and made a script with Node.js that generates a pdf in the file createPdf.js
 and another script in the file checkTimeToSend.js to check the time of the day that i'm suposted to send the pdf by email.
 
-In this case, i left only a db.json file using [json-server](https://www.npmjs.com/package/json-server), but its really to replace
-with your data from the database.
+In this repository, its not consuming data from any database, i left only a db.json file using [json-server](https://www.npmjs.com/package/json-server),
+for you to test if pleases you, but its really to replace with your data from the database.
 
 ## Usage
 

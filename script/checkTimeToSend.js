@@ -8,7 +8,9 @@ function getTime() {
     if (hours == '11' && minutes == '05') {
         createPdf();
         console.log('Done!');
-        // Só colocar a função do nodemailer pra enviar o arquivo que é criado no dir raiz,
+        // Put your script of sending an email here.  
+        // I made with nodemailer, but i removed to let the liberty for anyone use
+        // the library that he wants to
     }
 }
 
